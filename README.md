@@ -1,2 +1,16 @@
-# simple-crud-springboot-project
-Structure a basic CRUD project with Spring Boot using layered architecture
+## Projeto
+
+- Basic CRUD project with Spring Boot to better understand its layer structure
+
+## Dependências
+//
+
+## Arquitetura
+//
+
+## Build
+//
+
+## Referências
+//
+
