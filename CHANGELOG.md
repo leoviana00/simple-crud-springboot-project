@@ -2,8 +2,10 @@
 
 ## Current - Work in progress
 ### Merges
-
+*  Merge pull request #3 from leoviana00/feature/project/base [View](https://github.com/leoviana00/simple-crud-springboot-project/commits/aba5e628b0e9fd98e0a6551cf5af6072090e7e22)
 ### Commits
+*  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/simple-crud-springboot-project/commits/bcd7dc4b85465f41b05d846d017c07ec99f0eb02)
+*  feat(base): base project springboot [View](https://github.com/leoviana00/simple-crud-springboot-project/commits/c3ad3075be697ecaaacb90646bfb50f235f48fd2)
 
 
 
