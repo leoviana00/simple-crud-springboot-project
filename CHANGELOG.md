@@ -2,10 +2,14 @@
 
 ## Current - Work in progress
 ### Merges
+*  Merge pull request #4 from leoviana00/feature/model [View](https://github.com/leoviana00/simple-crud-springboot-project/commits/9ddbe9c7f3c609347dc52270b5139f2f88a3dcea)
 *  Merge pull request #3 from leoviana00/feature/project/base [View](https://github.com/leoviana00/simple-crud-springboot-project/commits/aba5e628b0e9fd98e0a6551cf5af6072090e7e22)
 ### Commits
 *  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/simple-crud-springboot-project/commits/bcd7dc4b85465f41b05d846d017c07ec99f0eb02)
 *  feat(base): base project springboot [View](https://github.com/leoviana00/simple-crud-springboot-project/commits/c3ad3075be697ecaaacb90646bfb50f235f48fd2)
+*  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/simple-crud-springboot-project/commits/a2e15eeff65d26697b26204ab203259a4c1af14a)
+*  feat(entity): creating the user entity [View](https://github.com/leoviana00/simple-crud-springboot-project/commits/ca5e20e352270cbe2d2fac54b9b4a381b153d1a8)
+*  feat(repository):creating the user repository [View](https://github.com/leoviana00/simple-crud-springboot-project/commits/4924209d8dfea40e66b3e8d29164e69bffecec76)
 
 
 
