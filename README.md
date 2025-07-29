@@ -186,7 +186,7 @@ _____________________________________________________
 
 Adotar uma arquitetura em camadas bem definida em projetos Spring Boot é um passo fundamental para aplicações robustas, limpas e profissionais. 💡
 
-- 🌱 Spring Boot oferece os componentes certos para implementar essa separação de forma simples e eficiente.
+🌱 Spring Boot oferece os componentes certos para implementar essa separação de forma simples e eficiente.
 
 ## Build
 
