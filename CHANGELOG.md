@@ -2,6 +2,7 @@
 
 ## Current - Work in progress
 ### Merges
+*  Merge pull request #7 from leoviana00/docs/crud-project [View](https://github.com/leoviana00/simple-crud-springboot-project/commits/c0faee3d9b681b1068a025a85b78db2b9c3aa895)
 *  Merge pull request #6 from leoviana00/feature/controller [View](https://github.com/leoviana00/simple-crud-springboot-project/commits/272a092df814e6d3ad36e94841d128802aecc45c)
 *  Merge pull request #5 from leoviana00/feature/service [View](https://github.com/leoviana00/simple-crud-springboot-project/commits/0aef83817959e3ec491ba9875e0f79267573848a)
 *  Merge pull request #4 from leoviana00/feature/model [View](https://github.com/leoviana00/simple-crud-springboot-project/commits/9ddbe9c7f3c609347dc52270b5139f2f88a3dcea)
@@ -16,6 +17,8 @@
 *  feat(service): creating the service layer [View](https://github.com/leoviana00/simple-crud-springboot-project/commits/ddba356aaed05a4483646c737423e38104c4923f)
 *  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/simple-crud-springboot-project/commits/a8263030be19eead71cf1d9845c403d6d3aa6ba8)
 *  feat(controller): creating the controller layer [View](https://github.com/leoviana00/simple-crud-springboot-project/commits/5b8936da62a1f22f80ad233274e625fb78a24ac8)
+*  docs(📚 CHANGELOG): update release notes [View](https://github.com/leoviana00/simple-crud-springboot-project/commits/a92b4443a2104b2ea69c581ae15d0468125e834f)
+*  docs(project): basic crud project documentation [View](https://github.com/leoviana00/simple-crud-springboot-project/commits/85e577edbf81eec0a8f58c40b15938a89c6304f4)
 
 
 
